@@ -1,0 +1,176 @@
+body{
+    /* margin-right: 140px;
+    margin-left: 140px; */
+    background-color: lightgoldenrodyellow;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.div2{
+    border: black solid 2px;
+    margin-right: 600px;
+    text-align: justify;
+    padding: 10px;
+    margin-left: 220px;
+    border-radius: 10px;
+    /* background-image: url(/Project/Windows-10-1903-update-1.jpg); */
+    background-color: lightsteelblue;
+    background-size: cover;
+    
+}
+
+.div4{
+    border: black solid 2px;
+    margin-right: 100px;
+    text-align: justify;
+    padding: 10px;
+    margin-left: 220px;
+    border-radius: 10px;
+    /* background-image: url(/Project/Windows-10-1903-update-1.jpg); */
+    background-color: lightsteelblue;
+    background-size: cover;
+}
+
+#kiskep{
+    text-align: center;
+    
+}
+
+#kiskep img {
+    cursor: pointer;
+    width: 200px;	
+}
+
+.footer1{
+    border: 3px gray solid;
+    margin-top: 10px;
+}
+.footer2{
+  border: 3px gray solid;
+  margin-top: px;
+}
+.footer3{
+  border: 3px gray solid;
+  margin-top: 50px;
+}
+
+
+.img1{
+    width: 30%;
+    margin-right: 120px;
+    border: 2px solid black;
+    border-radius: 25px;
+}
+
+.img2{
+    width: 100px;
+    margin-left: 40px;
+    margin-bottom: 3px;
+}
+.img3{
+    width: 30%;
+    margin-right: 200px;
+    border: 2px solid black;
+    border-radius: 25px;
+}
+
+.elvalaszto{
+    border: solid 0.12rem black;
+    border-radius: 30px;
+}
+
+.navbar-collapse{
+    margin-left: 970px;
+}
+
+.navbar-brand{
+    font-size: 150%;
+    margin-left: 30px;
+    border: solid black 2px;
+    border-radius: 36px;
+    background-color: darkgray;
+}
+
+.cim{
+    margin-left: 470px;
+}
+.cim2{
+  margin-left: 630px;
+}
+
+.carousel{
+  position: relative;
+  margin: 0 auto;
+  margin-left: 500px;
+  width: 600px;
+}
+
+
+.dropdown-menu{
+  background-color: darkgray;
+}
+.div3{
+  border: 2px solid black;
+  border-radius: 20px;
+  margin-left: 350px;
+  margin-right: 350px;
+  background-color: #555;
+  border-width: auto;
+}
+
+
+ /* The side navigation menu */
+ .sidebar {
+    margin: 0;
+    padding: 0;
+    width: 200px;
+    background-color: #f1f1f1;
+    position: absolute;
+    height: 609px;
+    overflow: auto;
+  }
+  
+  /* Sidebar links */
+  .sidebar a {
+    display: block;
+    color: black;
+    padding: 16px;
+    text-decoration: none;
+  }
+  
+  /* Active/current link */
+  .sidebar a.active {
+    background-color: #04AA6D;
+    color: white;
+  }
+  
+  /* Links on mouse-over */
+  .sidebar a:hover:not(.active) {
+    background-color: #555;
+    color: white;
+  }
+  
+  /* Page content. The value of the margin-left property should match the value of the sidebar's width property */
+  div.content {
+    margin-left: 200px;
+    padding: 1px 16px;
+    height: 1000px;
+  }
+  
+  /* On screens that are less than 700px wide, make the sidebar into a topbar */
+  @media screen and (max-width: 700px) {
+    .sidebar {
+      width: 100%;
+      height: auto;
+      position: relative;
+    }
+    .sidebar a {float: left;}
+    div.content {margin-left: 0;}
+  }
+  
+  /* On screens that are less than 400px, display the bar vertically, instead of horizontally */
+  @media screen and (max-width: 400px) {
+    .sidebar a {
+      text-align: center;
+      float: none;
+    }
+  } 
