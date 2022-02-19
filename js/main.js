@@ -1,4 +1,4 @@
-var kepek=["nagykep/Webp.net-resizeimage.jpg","nagykep/Webp.net-resizeimage(1).jpg","nagykep/Webp.net-resizeimage(2).jpg","nagykep/Webp.net-resizeimage(3).jpg"];	
+var kepek=["nagykep/nagykep1","nagykep/nagykep2","nagykep/nagykep3","nagykep/nagykep4"];	
 function csere(kepnev){
 //document.nagykep.src=kepnev;
 //document.getElementById("nagykep").src=kepnev;
