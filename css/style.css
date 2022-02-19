@@ -12,10 +12,24 @@ body{
     padding: 10px;
     margin-left: 220px;
     border-radius: 10px;
-    background-image: url(/Project/Windows-10-1903-update-1.jpg);
+    /* background-image: url(/Project/Windows-10-1903-update-1.jpg); */
+    background-color: lightsteelblue;
     background-size: cover;
     
 }
+
+.div4{
+    border: black solid 2px;
+    margin-right: 100px;
+    text-align: justify;
+    padding: 10px;
+    margin-left: 220px;
+    border-radius: 10px;
+    /* background-image: url(/Project/Windows-10-1903-update-1.jpg); */
+    background-color: lightsteelblue;
+    background-size: cover;
+}
+
 #kiskep{
     text-align: center;
     
@@ -34,6 +48,12 @@ body{
   border: 3px gray solid;
   margin-top: px;
 }
+.footer3{
+  border: 3px gray solid;
+  margin-top: 50px;
+}
+
+
 .img1{
     width: 30%;
     margin-right: 120px;
@@ -73,6 +93,17 @@ body{
 .cim{
     margin-left: 470px;
 }
+.cim2{
+  margin-left: 630px;
+}
+
+.carousel{
+  position: relative;
+  margin: 0 auto;
+  margin-left: 500px;
+  width: 600px;
+}
+
 
 .dropdown-menu{
   background-color: darkgray;
@@ -84,11 +115,6 @@ body{
   margin-right: 350px;
   background-color: #555;
   border-width: auto;
-}
-
-.nagykep{
-  max-width: 100px;
-  max-height: 100px;
 }
 
 
