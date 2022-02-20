@@ -1,5 +1,4 @@
-@media screen and (max-width: 481px){
-  body{
+body{
     /* margin-right: 140px;
     margin-left: 140px; */
     background-color: lightgoldenrodyellow;
@@ -173,5 +172,3 @@
       float: none;
     }
   } 
-}
-
