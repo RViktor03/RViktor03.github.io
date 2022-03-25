@@ -51,6 +51,10 @@ body{
   border: 0.188rem gray solid;
   margin-top: 3.125rem;
 }
+.footer4{
+  border: 0.188rem gray solid;
+  margin-top: 11.3rem;
+}
 
 
 .img1{
@@ -103,7 +107,7 @@ body{
   color: whitesmoke;
 }
 .cim4{
-  margin-left: 2rem;
+  margin-left: 27rem;
   color: whitesmoke;
 }
 
@@ -140,6 +144,9 @@ body{
   height: 43.625rem;
 }
 
+#sb4{
+  height: 42.8rem;
+}
 
 
 
